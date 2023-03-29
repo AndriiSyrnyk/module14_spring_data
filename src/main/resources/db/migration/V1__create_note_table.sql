@@ -1,0 +1,6 @@
+CREATE TABLE note (
+	id INT NOT NULL AUTO_INCREMENT,
+	title VARCHAR,
+	content VARCHAR,
+	PRIMARY KEY (id)
+);
